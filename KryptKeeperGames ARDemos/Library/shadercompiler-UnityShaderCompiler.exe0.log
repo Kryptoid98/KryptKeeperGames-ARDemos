@@ -1,0 +1,1634 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.1f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.1f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=65493 outsize=3069 ok=1
+Cmd: preprocess
+  insize=5969 outsize=650 ok=1
+Cmd: preprocess
+  insize=3633 outsize=650 ok=1
+Cmd: preprocess
+  insize=6268 outsize=648 ok=1
+Cmd: preprocess
+  insize=6600 outsize=651 ok=1
+Cmd: preprocess
+  insize=6887 outsize=645 ok=1
+Cmd: preprocess
+  insize=4178 outsize=653 ok=1
+Cmd: preprocess
+  insize=5549 outsize=656 ok=1
+Cmd: preprocess
+  insize=4304 outsize=656 ok=1
+Cmd: preprocess
+  insize=3632 outsize=650 ok=1
+Cmd: preprocess
+  insize=3612 outsize=654 ok=1
+Cmd: preprocess
+  insize=6197 outsize=651 ok=1
+Cmd: preprocess
+  insize=6880 outsize=645 ok=1
+Cmd: preprocess
+  insize=3679 outsize=649 ok=1
+Cmd: preprocess
+  insize=5025 outsize=648 ok=1
+Cmd: preprocess
+  insize=5324 outsize=646 ok=1
+Cmd: preprocess
+  insize=5656 outsize=649 ok=1
+Cmd: preprocess
+  insize=5943 outsize=644 ok=1
+Cmd: preprocess
+  insize=61699 outsize=3069 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (132): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=4714 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (132): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=4714 outsize=1310 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (140): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5015 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (81): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (140): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5015 outsize=1382 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (148): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5344 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (81): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (148): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5344 outsize=1494 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (156): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5636 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (81): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (156): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5636 outsize=1506 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (207): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=16216 outsize=1974 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (151): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (207): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=16216 outsize=5210 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=5967 outsize=648 ok=1
+Cmd: preprocess
+  insize=6266 outsize=646 ok=1
+Cmd: preprocess
+  insize=6598 outsize=649 ok=1
+Cmd: preprocess
+  insize=6885 outsize=643 ok=1
+Cmd: preprocess
+  insize=65491 outsize=3067 ok=1
+Cmd: preprocess
+  insize=5263 outsize=648 ok=1
+Cmd: preprocess
+  insize=5562 outsize=646 ok=1
+Cmd: preprocess
+  insize=5894 outsize=649 ok=1
+Cmd: preprocess
+  insize=6181 outsize=644 ok=1
+Cmd: preprocess
+  insize=63055 outsize=3069 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (136): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=4952 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (136): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=4952 outsize=1334 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (144): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5253 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (83): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (144): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5253 outsize=1406 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (152): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5582 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (83): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (152): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5582 outsize=1518 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (160): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5874 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (83): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (160): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5874 outsize=1530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (211): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=16668 outsize=2066 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (154): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (211): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=16668 outsize=5222 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=5967 outsize=648 ok=1
+Cmd: preprocess
+  insize=6266 outsize=646 ok=1
+Cmd: preprocess
+  insize=6598 outsize=649 ok=1
+Cmd: preprocess
+  insize=6885 outsize=643 ok=1
+Cmd: preprocess
+  insize=65491 outsize=3067 ok=1
+Cmd: preprocess
+  insize=5263 outsize=648 ok=1
+Cmd: preprocess
+  insize=5562 outsize=646 ok=1
+Cmd: preprocess
+  insize=5894 outsize=649 ok=1
+Cmd: preprocess
+  insize=6181 outsize=644 ok=1
+Cmd: preprocess
+  insize=63055 outsize=3069 ok=1
+Cmd: preprocess
+  insize=59903 outsize=3083 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=15967 outsize=2066 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (143): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=15967 outsize=4606 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=63055 outsize=3069 ok=1
+Cmd: preprocess
+  insize=5263 outsize=648 ok=1
+Cmd: preprocess
+  insize=3631 outsize=648 ok=1
+Cmd: preprocess
+  insize=5562 outsize=646 ok=1
+Cmd: preprocess
+  insize=5894 outsize=649 ok=1
+Cmd: preprocess
+  insize=6181 outsize=644 ok=1
+Cmd: preprocess
+  insize=4176 outsize=651 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=3610 outsize=652 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=3677 outsize=647 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=5894 outsize=649 ok=1
+Cmd: preprocess
+  insize=6181 outsize=644 ok=1
+Cmd: preprocess
+  insize=63055 outsize=3069 ok=1
+Cmd: preprocess
+  insize=5562 outsize=646 ok=1
+Cmd: preprocess
+  insize=5263 outsize=648 ok=1
+Cmd: preprocess
+  insize=3631 outsize=648 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=63055 outsize=3069 ok=1
+Cmd: preprocess
+  insize=5263 outsize=648 ok=1
+Cmd: preprocess
+  insize=3631 outsize=648 ok=1
+Cmd: preprocess
+  insize=5562 outsize=646 ok=1
+Cmd: preprocess
+  insize=5894 outsize=649 ok=1
+Cmd: preprocess
+  insize=6181 outsize=644 ok=1
+Cmd: preprocess
+  insize=4176 outsize=651 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=3610 outsize=652 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=3677 outsize=647 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=5894 outsize=649 ok=1
+Cmd: preprocess
+  insize=6181 outsize=644 ok=1
+Cmd: preprocess
+  insize=63055 outsize=3069 ok=1
+Cmd: preprocess
+  insize=5562 outsize=646 ok=1
+Cmd: preprocess
+  insize=5263 outsize=648 ok=1
+Cmd: preprocess
+  insize=3631 outsize=648 ok=1
+Cmd: preprocess
+  insize=4911 outsize=648 ok=1
+Cmd: preprocess
+  insize=5210 outsize=646 ok=1
+Cmd: preprocess
+  insize=5542 outsize=649 ok=1
+Cmd: preprocess
+  insize=5829 outsize=644 ok=1
+Cmd: preprocess
+  insize=61606 outsize=3068 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (203): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=16185 outsize=2066 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (150): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (203): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=16185 outsize=5170 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=61606 outsize=3068 ok=1
+Cmd: preprocess
+  insize=4911 outsize=648 ok=1
+Cmd: preprocess
+  insize=3631 outsize=648 ok=1
+Cmd: preprocess
+  insize=5210 outsize=646 ok=1
+Cmd: preprocess
+  insize=5542 outsize=649 ok=1
+Cmd: preprocess
+  insize=5829 outsize=644 ok=1
+Cmd: preprocess
+  insize=4176 outsize=651 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=3610 outsize=652 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=3677 outsize=647 ok=1
+Cmd: preprocess
+  insize=5076 outsize=648 ok=1
+Cmd: preprocess
+  insize=5375 outsize=646 ok=1
+Cmd: preprocess
+  insize=5707 outsize=649 ok=1
+Cmd: preprocess
+  insize=5994 outsize=643 ok=1
+Cmd: preprocess
+  insize=61876 outsize=3067 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (133): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=4765 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (133): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=4765 outsize=1314 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (141): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5066 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (82): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (141): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5066 outsize=1386 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (149): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5395 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (82): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (149): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5395 outsize=1498 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (157): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5687 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (82): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (157): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5687 outsize=1510 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (208): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=16275 outsize=1974 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (152): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (208): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=16275 outsize=5214 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=4911 outsize=648 ok=1
+Cmd: preprocess
+  insize=5210 outsize=646 ok=1
+Cmd: preprocess
+  insize=5542 outsize=649 ok=1
+Cmd: preprocess
+  insize=5829 outsize=644 ok=1
+Cmd: preprocess
+  insize=61606 outsize=3068 ok=1
+Cmd: preprocess
+  insize=5263 outsize=648 ok=1
+Cmd: preprocess
+  insize=5562 outsize=646 ok=1
+Cmd: preprocess
+  insize=5894 outsize=649 ok=1
+Cmd: preprocess
+  insize=6181 outsize=644 ok=1
+Cmd: preprocess
+  insize=63055 outsize=3069 ok=1
+Cmd: preprocess
+  insize=3631 outsize=648 ok=1
+Cmd: preprocess
+  insize=5263 outsize=648 ok=1
+Cmd: preprocess
+  insize=5562 outsize=646 ok=1
+Cmd: preprocess
+  insize=5894 outsize=649 ok=1
+Cmd: preprocess
+  insize=6181 outsize=644 ok=1
+Cmd: preprocess
+  insize=63055 outsize=3069 ok=1
+Cmd: preprocess
+  insize=4951 outsize=648 ok=1
+Cmd: preprocess
+  insize=5250 outsize=646 ok=1
+Cmd: preprocess
+  insize=5582 outsize=648 ok=1
+Cmd: preprocess
+  insize=5869 outsize=644 ok=1
+Cmd: preprocess
+  insize=61915 outsize=3069 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (128): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=4640 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (128): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=4640 outsize=1282 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (136): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=4941 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (78): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (136): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=4941 outsize=1354 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (144): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5270 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (78): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (144): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5270 outsize=1466 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (152): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5562 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (78): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (152): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5562 outsize=1478 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (203): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=16288 outsize=2066 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (149): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (203): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=16288 outsize=5170 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=58763 outsize=3084 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=15587 outsize=2066 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (138): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=15587 outsize=4554 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=3677 outsize=647 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=3610 outsize=652 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=4176 outsize=651 ok=1
+Cmd: preprocess
+  insize=5869 outsize=644 ok=1
+Cmd: preprocess
+  insize=5582 outsize=648 ok=1
+Cmd: preprocess
+  insize=5250 outsize=646 ok=1
+Cmd: preprocess
+  insize=3631 outsize=648 ok=1
+Cmd: preprocess
+  insize=4951 outsize=648 ok=1
+Cmd: preprocess
+  insize=61915 outsize=3069 ok=1
+Cmd: preprocess
+  insize=5869 outsize=644 ok=1
+Cmd: preprocess
+  insize=61915 outsize=3069 ok=1
+Cmd: preprocess
+  insize=3631 outsize=648 ok=1
+Cmd: preprocess
+  insize=4951 outsize=648 ok=1
+Cmd: preprocess
+  insize=5250 outsize=646 ok=1
+Cmd: preprocess
+  insize=5582 outsize=648 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=3577 outsize=648 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=3564 outsize=643 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (95): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=3255 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (95): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=3255 outsize=274 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=4911 outsize=648 ok=1
+Cmd: preprocess
+  insize=5210 outsize=646 ok=1
+Cmd: preprocess
+  insize=5542 outsize=649 ok=1
+Cmd: preprocess
+  insize=5829 outsize=644 ok=1
+Cmd: preprocess
+  insize=61606 outsize=3068 ok=1
+Cmd: preprocess
+  insize=5014 outsize=648 ok=1
+Cmd: preprocess
+  insize=5313 outsize=645 ok=1
+Cmd: preprocess
+  insize=5645 outsize=649 ok=1
+Cmd: preprocess
+  insize=5932 outsize=644 ok=1
+Cmd: preprocess
+  insize=61690 outsize=3068 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (133): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=4703 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (133): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=4703 outsize=1314 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (141): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5004 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (83): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (141): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5004 outsize=1386 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (149): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5333 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (83): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (149): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5333 outsize=1498 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (157): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5625 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (83): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (157): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5625 outsize=1510 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (208): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=16213 outsize=1974 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (153): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (208): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=16213 outsize=5214 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=4911 outsize=648 ok=1
+Cmd: preprocess
+  insize=5210 outsize=646 ok=1
+Cmd: preprocess
+  insize=5542 outsize=649 ok=1
+Cmd: preprocess
+  insize=5829 outsize=644 ok=1
+Cmd: preprocess
+  insize=61606 outsize=3068 ok=1
+Cmd: preprocess
+  insize=5201 outsize=648 ok=1
+Cmd: preprocess
+  insize=5500 outsize=646 ok=1
+Cmd: preprocess
+  insize=5832 outsize=649 ok=1
+Cmd: preprocess
+  insize=6119 outsize=644 ok=1
+Cmd: preprocess
+  insize=62869 outsize=3069 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (136): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=4890 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (136): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=4890 outsize=1334 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (144): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5191 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (84): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (144): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5191 outsize=1406 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (152): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5520 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (84): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (152): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5520 outsize=1518 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (160): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5812 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (84): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (160): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5812 outsize=1530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (211): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=16606 outsize=2066 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (155): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (211): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=16606 outsize=5222 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=59555 outsize=3084 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=15851 outsize=2066 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (143): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=15851 outsize=4602 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=3677 outsize=647 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=3610 outsize=652 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=4176 outsize=651 ok=1
+Cmd: preprocess
+  insize=6119 outsize=644 ok=1
+Cmd: preprocess
+  insize=5832 outsize=649 ok=1
+Cmd: preprocess
+  insize=5500 outsize=646 ok=1
+Cmd: preprocess
+  insize=3577 outsize=648 ok=1
+Cmd: preprocess
+  insize=5201 outsize=648 ok=1
+Cmd: preprocess
+  insize=62869 outsize=3069 ok=1
+Cmd: preprocess
+  insize=3564 outsize=643 ok=1
+Cmd: preprocess
+  insize=6119 outsize=644 ok=1
+Cmd: preprocess
+  insize=62869 outsize=3069 ok=1
+Cmd: preprocess
+  insize=3577 outsize=648 ok=1
+Cmd: preprocess
+  insize=5201 outsize=648 ok=1
+Cmd: preprocess
+  insize=5500 outsize=646 ok=1
+Cmd: preprocess
+  insize=5832 outsize=649 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=59558 outsize=3084 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=15852 outsize=2066 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (143): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=15852 outsize=4602 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=59558 outsize=3084 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=3677 outsize=647 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=3610 outsize=652 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=4176 outsize=651 ok=1
+Cmd: preprocess
+  insize=6119 outsize=644 ok=1
+Cmd: preprocess
+  insize=5832 outsize=649 ok=1
+Cmd: preprocess
+  insize=5500 outsize=646 ok=1
+Cmd: preprocess
+  insize=3577 outsize=648 ok=1
+Cmd: preprocess
+  insize=5201 outsize=648 ok=1
+Cmd: preprocess
+  insize=62869 outsize=3069 ok=1
+Cmd: preprocess
+  insize=3564 outsize=643 ok=1
+Cmd: preprocess
+  insize=6119 outsize=644 ok=1
+Cmd: preprocess
+  insize=62869 outsize=3069 ok=1
+Cmd: preprocess
+  insize=3577 outsize=648 ok=1
+Cmd: preprocess
+  insize=5201 outsize=648 ok=1
+Cmd: preprocess
+  insize=5500 outsize=646 ok=1
+Cmd: preprocess
+  insize=5832 outsize=649 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=3677 outsize=647 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=3610 outsize=652 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=4176 outsize=651 ok=1
+Cmd: preprocess
+  insize=6119 outsize=644 ok=1
+Cmd: preprocess
+  insize=5832 outsize=649 ok=1
+Cmd: preprocess
+  insize=5500 outsize=646 ok=1
+Cmd: preprocess
+  insize=3577 outsize=648 ok=1
+Cmd: preprocess
+  insize=5201 outsize=648 ok=1
+Cmd: preprocess
+  insize=62869 outsize=3069 ok=1
+Cmd: preprocess
+  insize=3564 outsize=643 ok=1
+Cmd: preprocess
+  insize=6119 outsize=644 ok=1
+Cmd: preprocess
+  insize=62869 outsize=3069 ok=1
+Cmd: preprocess
+  insize=3577 outsize=648 ok=1
+Cmd: preprocess
+  insize=5201 outsize=648 ok=1
+Cmd: preprocess
+  insize=5500 outsize=646 ok=1
+Cmd: preprocess
+  insize=5832 outsize=649 ok=1
+Cmd: preprocess
+  insize=3630 outsize=648 ok=1
+Cmd: preprocess
+  insize=4302 outsize=654 ok=1
+Cmd: preprocess
+  insize=5547 outsize=654 ok=1
+Cmd: preprocess
+  insize=6195 outsize=649 ok=1
+Cmd: preprocess
+  insize=6878 outsize=643 ok=1
+Cmd: preprocess
+  insize=6198 outsize=694 ok=1
+Cmd: preprocess
+  insize=63104 outsize=3118 ok=1
+Cmd: preprocess
+  insize=3656 outsize=698 ok=1
+Cmd: preprocess
+  insize=5280 outsize=698 ok=1
+Cmd: preprocess
+  insize=5579 outsize=696 ok=1
+Cmd: preprocess
+  insize=5911 outsize=698 ok=1
+Cmd: preprocess
+  insize=3709 outsize=698 ok=1
+Cmd: preprocess
+  insize=4381 outsize=705 ok=1
+Cmd: preprocess
+  insize=5626 outsize=704 ok=1
+Cmd: preprocess
+  insize=6274 outsize=699 ok=1
+Cmd: preprocess
+  insize=6957 outsize=694 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (162): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5841 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (86): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (162): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5841 outsize=1530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (138): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=4919 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (138): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=4919 outsize=1334 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (146): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5220 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (86): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (146): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5220 outsize=1406 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (154): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5549 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (86): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (154): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5549 outsize=1518 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (97): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=3345 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (97): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=3345 outsize=274 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (109): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=4010 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (109): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=4010 outsize=538 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (136): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5259 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (136): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5259 outsize=5186 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (146): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5912 outsize=894 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (146): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5912 outsize=5330 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (155): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=6600 outsize=970 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (155): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=6600 outsize=5534 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (213): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=16643 outsize=2066 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (157): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (213): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=16643 outsize=5222 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=3681 outsize=694 ok=1
+Cmd: preprocess
+  insize=5318 outsize=698 ok=1
+Cmd: preprocess
+  insize=5617 outsize=697 ok=1
+Cmd: preprocess
+  insize=5949 outsize=700 ok=1
+Cmd: preprocess
+  insize=6236 outsize=695 ok=1
+Cmd: preprocess
+  insize=63216 outsize=3119 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (97): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=3321 outsize=530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (97): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=3321 outsize=274 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (138): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=4956 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (138): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=4956 outsize=1334 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (146): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5257 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (85): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (146): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5257 outsize=1406 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (154): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5586 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (85): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (154): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5586 outsize=1518 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (162): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Vertex program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=5878 outsize=642 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (85): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (162): 'TransformObjectToWorld': implicit truncation of vector type\nCompiling Fragment program
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=5878 outsize=1530 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (213): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=16680 outsize=2066 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (156): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (213): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=16680 outsize=5222 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=86529 outsize=3122 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (295): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (458): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=21323 outsize=6906 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (203): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (295): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (458): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=21323 outsize=5222 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=82612 outsize=3137 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=3757 outsize=698 ok=1
+Cmd: preprocess
+  insize=6958 outsize=695 ok=1
+Cmd: preprocess
+  insize=6275 outsize=700 ok=1
+Cmd: preprocess
+  insize=3690 outsize=703 ok=1
+Cmd: preprocess
+  insize=3710 outsize=699 ok=1
+Cmd: preprocess
+  insize=4382 outsize=706 ok=1
+Cmd: preprocess
+  insize=5627 outsize=705 ok=1
+Cmd: preprocess
+  insize=4256 outsize=702 ok=1
+Cmd: preprocess
+  insize=6236 outsize=695 ok=1
+Cmd: preprocess
+  insize=5949 outsize=700 ok=1
+Cmd: preprocess
+  insize=5617 outsize=697 ok=1
+Cmd: preprocess
+  insize=3657 outsize=699 ok=1
+Cmd: preprocess
+  insize=5318 outsize=698 ok=1
+Cmd: preprocess
+  insize=86529 outsize=3122 ok=1
+Cmd: preprocess
+  insize=3681 outsize=694 ok=1
+Cmd: preprocess
+  insize=3681 outsize=694 ok=1
+Cmd: preprocess
+  insize=5318 outsize=698 ok=1
+Cmd: preprocess
+  insize=5617 outsize=697 ok=1
+Cmd: preprocess
+  insize=5949 outsize=700 ok=1
+Cmd: preprocess
+  insize=6236 outsize=695 ok=1
+Cmd: preprocess
+  insize=86529 outsize=3122 ok=1
+Cmd: preprocess
+  insize=3657 outsize=699 ok=1
+Cmd: preprocess
+  insize=3710 outsize=699 ok=1
+Cmd: preprocess
+  insize=4382 outsize=706 ok=1
+Cmd: preprocess
+  insize=5627 outsize=705 ok=1
+Cmd: preprocess
+  insize=6275 outsize=700 ok=1
+Cmd: preprocess
+  insize=6958 outsize=695 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (445): implicit truncation of vector type\nCompiling Vertex program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=0 insize=20469 outsize=6882 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (190): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  error: 1 plat 4 at (445): implicit truncation of vector type\nCompiling Fragment program with _ADDITIONAL_LIGHTS
+Platform defines: UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING
+  api=4 type=1 insize=20469 outsize=4606 kw=_ADDITIONAL_LIGHTS pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=3757 outsize=698 ok=1
+Cmd: preprocess
+  insize=6958 outsize=695 ok=1
+Cmd: preprocess
+  insize=6275 outsize=700 ok=1
+Cmd: preprocess
+  insize=3690 outsize=703 ok=1
+Cmd: preprocess
+  insize=3710 outsize=699 ok=1
+Cmd: preprocess
+  insize=4382 outsize=706 ok=1
+Cmd: preprocess
+  insize=5627 outsize=705 ok=1
+Cmd: preprocess
+  insize=4256 outsize=702 ok=1
+Cmd: preprocess
+  insize=6236 outsize=695 ok=1
+Cmd: preprocess
+  insize=5949 outsize=700 ok=1
+Cmd: preprocess
+  insize=5617 outsize=697 ok=1
+Cmd: preprocess
+  insize=3657 outsize=699 ok=1
+Cmd: preprocess
+  insize=5318 outsize=698 ok=1
+Cmd: preprocess
+  insize=86529 outsize=3122 ok=1
+Cmd: preprocess
+  insize=3681 outsize=694 ok=1
+Cmd: preprocess
+  insize=3681 outsize=694 ok=1
+Cmd: preprocess
+  insize=5318 outsize=698 ok=1
+Cmd: preprocess
+  insize=5617 outsize=697 ok=1
+Cmd: preprocess
+  insize=5949 outsize=700 ok=1
+Cmd: preprocess
+  insize=6236 outsize=695 ok=1
+Cmd: preprocess
+  insize=86529 outsize=3122 ok=1
+Cmd: preprocess
+  insize=3657 outsize=699 ok=1
+Cmd: preprocess
+  insize=3710 outsize=699 ok=1
+Cmd: preprocess
+  insize=4382 outsize=706 ok=1
+Cmd: preprocess
+  insize=5627 outsize=705 ok=1
+Cmd: preprocess
+  insize=6275 outsize=700 ok=1
+Cmd: preprocess
+  insize=6958 outsize=695 ok=1
+Cmd: preprocess
+  insize=82612 outsize=3137 ok=1

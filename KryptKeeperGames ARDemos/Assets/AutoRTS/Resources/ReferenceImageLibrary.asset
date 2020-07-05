@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5368275853749927139
+  m_GuidHigh: 8238241253618903449
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4864754849163011076
+      m_GuidHigh: 17094787229480051600
+    m_SerializedTextureGuid:
+      m_GuidLow: 2190094477562132075
+      m_GuidHigh: 4527801052959113130
+    m_Size: {x: 0.064748205, y: 0.09}
+    m_SpecifySize: 1
+    m_Name: MiniFootman
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5081166091407468247
+      m_GuidHigh: 8091345436296849066
+    m_SerializedTextureGuid:
+      m_GuidLow: 8220261382036838334
+      m_GuidHigh: 199587996062689624
+    m_Size: {x: 0.063673474, y: 0.09}
+    m_SpecifySize: 1
+    m_Name: MiniLich
+    m_Texture: {fileID: 0}
