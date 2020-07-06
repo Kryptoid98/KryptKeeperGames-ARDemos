@@ -5,6 +5,11 @@ using UnityEngine;
 public class Trash : MonoBehaviour
 {
     Rigidbody rb = null;
+    AudioSource aSource;
+    private void Start()
+    {
+        aSource = GetComponentInChildren<AudioSource>();
+    }
     protected void Update()
     {
         if(rotate)transform.Rotate(new Vector3(0,0,1));
@@ -33,8 +38,18 @@ public class Trash : MonoBehaviour
 
     public void Destroy()
     {
-        //Play sfx
+        SoundManager.instance.PlaySound(SoundManager.instance.poof_sfx);
         Instantiate(ContentLoader.LoadPrefab(ContentLoader.PrefabID.DESTROY_PUFF_FX), transform.position, Quaternion.identity);
         Destroy(gameObject);
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (SoundManager.instance.canClink_sfx != null) {
+            int rand = Random.Range(0, SoundManager.instance.canClink_sfx.Length);
+            //aSource.clip = SoundManager.instance.canClink_sfx[rand];
+            //aSource.Play();
+            SoundManager.instance.PlaySound(SoundManager.instance.canClink_sfx[rand]);
+        }
     }
 }

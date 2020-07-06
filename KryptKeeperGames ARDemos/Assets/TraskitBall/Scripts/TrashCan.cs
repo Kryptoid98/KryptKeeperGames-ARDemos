@@ -9,6 +9,8 @@ public class TrashCan : PlaceableObject
     public MeshCollider trashCanCollider;
     public GameObject scoreParticles;
 
+    public AudioClip score_sfx;
+
     LinkedList<Trash> trashInScoreDetector = new LinkedList<Trash>();
 
     Vector3 spawnedPosition = Vector3.zero;
@@ -30,6 +32,7 @@ public class TrashCan : PlaceableObject
             else
             {
                 Instantiate(scoreParticles, other.transform.position, Quaternion.identity);
+                SoundManager.instance.PlaySound(score_sfx);
                 float distance = Vector3.Distance(transform.position, Camera.main.transform.position);
                 TrashkitBallMode.instance.UpdateScore(Mathf.RoundToInt(20 * distance));
                 trash.hasScored = true;

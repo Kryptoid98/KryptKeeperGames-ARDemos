@@ -8,7 +8,12 @@ public class SoundManager : MonoBehaviour
 {
     public static SoundManager instance;
 
+    public AudioClip poof_sfx;
+
+    public AudioClip[] canClink_sfx;
+
     AudioSource audioSource;
+
 
     private void Awake()
     {
@@ -19,8 +24,6 @@ public class SoundManager : MonoBehaviour
     public void PlaySound(AudioClip soundToPlay)
     {
         audioSource.PlayOneShot(soundToPlay);
-        EventSystem.current.IsPointerOverGameObject();
-        Vector2 v = Vector2.zero;
     }
 }
 

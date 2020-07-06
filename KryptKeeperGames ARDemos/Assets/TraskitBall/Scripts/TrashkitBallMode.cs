@@ -20,6 +20,10 @@ public class TrashkitBallMode : GameMode
     [Header("Trash Prefabs")]
     public GameObject[] trashRefs;
 
+    [Header("Sound_FX")]
+    public AudioClip gameOver_sfx;
+    public AudioClip[] throw_sfx;
+
     [Header("UI")]
     public Animator canvasAnimator;
     public GameObject generalUI;
@@ -137,6 +141,7 @@ public class TrashkitBallMode : GameMode
             goScoreText.text = score.ToString();
 
             canvasAnimator.SetTrigger("GameOver");
+            SoundManager.instance.PlaySound(gameOver_sfx);
         }
     }
 
@@ -201,6 +206,11 @@ public class TrashkitBallMode : GameMode
             Vector3 dir = (touchViewPoint - new Vector3(0.5f, 0.08f, 0)).normalized;
 
             activeTrash.GetComponent<Trash>().Throw(distance, dir);
+            if(throw_sfx != null)
+            {
+                int randSFX = Random.Range(0, throw_sfx.Length);
+                SoundManager.instance.PlaySound(throw_sfx[randSFX]);
+            }
 
             if (trashCount > 0)
                 StartCoroutine(SpawnTrashTimed());
@@ -360,5 +370,10 @@ public class TrashkitBallMode : GameMode
 
         animatingScore = false;
         scoreText.text = score.ToString();
+    }
+
+    private void OnDisable()
+    {
+        if (spawnedObjectPlacement != null) spawnedObjectPlacement.onPlacementFinished -= StartGameMode;
     }
 }

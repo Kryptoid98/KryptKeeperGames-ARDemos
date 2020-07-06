@@ -25,6 +25,12 @@ public class MainMenu : Menu
         StartCoroutine(PrepareToLoadGameMode());
     }
 
+    public void LoadDodgeGame()
+    {
+        modeToLoad = eGameMode.DODGE_GAME;
+        StartCoroutine(PrepareToLoadGameMode());
+    }
+
     IEnumerator PrepareToLoadGameMode()
     {
         if (preparingToLoad) yield break;

@@ -136,6 +136,7 @@ GameObject:
   - component: {fileID: 126723775}
   - component: {fileID: 126723774}
   - component: {fileID: 126723778}
+  - component: {fileID: 126723779}
   m_Layer: 0
   m_Name: AR Camera
   m_TagString: MainCamera
@@ -277,6 +278,14 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
+--- !u!81 &126723779
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 126723772}
+  m_Enabled: 1
 --- !u!1 &524114205
 GameObject:
   m_ObjectHideFlags: 0
@@ -403,6 +412,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d320dd13fe399384e854e1cc1ba54131, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  poof_sfx: {fileID: 8300000, guid: 018197ae8955a7b4380c42e878ceaaab, type: 3}
+  canClink_sfx:
+  - {fileID: 8300000, guid: 40d2f5f15bd4bf64390042c86aaa0ba2, type: 3}
+  - {fileID: 8300000, guid: 9bdcedc05dc9ee24e981c150f3215681, type: 3}
+  - {fileID: 8300000, guid: a8decc579a6c942418507b8a5fcb634a, type: 3}
+  - {fileID: 8300000, guid: 4a1521864ec2559439f0745cd06642df, type: 3}
 --- !u!4 &524114208
 Transform:
   m_ObjectHideFlags: 0
@@ -481,7 +496,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1371699331
 GameObject:
@@ -651,7 +666,6 @@ GameObject:
   - component: {fileID: 1901493072}
   - component: {fileID: 1901493075}
   - component: {fileID: 1901493071}
-  - component: {fileID: 1901493076}
   m_Layer: 0
   m_Name: AR Session Origin
   m_TagString: Untagged
@@ -754,21 +768,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_AnchorPrefab: {fileID: 2029580958833437801, guid: b0a6456958e75b6419032bee34b9edd0,
     type: 3}
---- !u!114 &1901493076
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1901493068}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SerializedLibrary: {fileID: 0}
-  m_MaxNumberOfMovingImages: 0
-  m_TrackedImagePrefab: {fileID: 0}
 --- !u!1001 &3695489538424202445
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -814,7 +813,7 @@ PrefabInstance:
     - target: {fileID: 3695489537837274387, guid: 58193c3e21f3cc24baa4f8b6528307c1,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3695489537837274387, guid: 58193c3e21f3cc24baa4f8b6528307c1,
         type: 3}

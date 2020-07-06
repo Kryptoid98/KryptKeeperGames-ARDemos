@@ -188,8 +188,7 @@ MonoBehaviour:
   trashCanCollider: {fileID: 692870772288900821}
   scoreParticles: {fileID: 7018990669108220055, guid: fd6c0f86d2ea1414cb4b2dead21e021f,
     type: 3}
-  scoreText: {fileID: 1678845158712850956, guid: 4a0e39fd96eb62b48b47143656357d9b,
-    type: 3}
+  score_sfx: {fileID: 8300000, guid: 05af60c95941e7a43bc0bdb292fc83e8, type: 3}
 --- !u!1001 &6007883608108426788
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -14,6 +14,7 @@ namespace KryptKeeperGamesARDemo.Enums
     {
         TRASHKITBALL_MODE,
         AUTORTS_MODE,
+        DODGE_GAME,
         NONE
     }
 

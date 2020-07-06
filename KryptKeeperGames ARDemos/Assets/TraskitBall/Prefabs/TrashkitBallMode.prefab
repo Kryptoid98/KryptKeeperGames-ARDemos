@@ -457,6 +457,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   trashRefs:
   - {fileID: 5283739006264907360, guid: a8d0f8820e1b70245b43e8fe1ecc740b, type: 3}
+  gameOver_sfx: {fileID: 8300000, guid: e9fdc8d0c90b5494baff0b7536a6ac1d, type: 3}
+  throw_sfx:
+  - {fileID: 8300000, guid: 6f79d533c34ada3428de3d0bb6cca0f6, type: 3}
+  - {fileID: 8300000, guid: 087b599a8b2b9c44faf20395ca3abe62, type: 3}
+  - {fileID: 8300000, guid: 7ce754f045921ff4a9fa1585b1715999, type: 3}
+  - {fileID: 8300000, guid: 74e7722fafae2e048ae249f99cc1ef31, type: 3}
   canvasAnimator: {fileID: 7263903662532415932}
   generalUI: {fileID: 6553393013237663455}
   scoreText: {fileID: 5071542610662133236}
