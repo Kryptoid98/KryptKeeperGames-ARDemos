@@ -14,7 +14,7 @@ namespace KryptKeeperGamesARDemo.Enums
     {
         TRASHKITBALL_MODE,
         AUTORTS_MODE,
-        DODGE_GAME,
+        BLOCK_BUILDER,
         NONE
     }
 
@@ -25,4 +25,11 @@ namespace KryptKeeperGamesARDemo.Enums
         IN_GAME,
     }
 
+    public enum eBlocks
+    {
+        GRASS,
+        SAND,
+        HALD_SAND,
+        CLAY
+    }
 }

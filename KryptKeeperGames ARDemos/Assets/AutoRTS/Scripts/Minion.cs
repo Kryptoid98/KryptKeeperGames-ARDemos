@@ -35,7 +35,6 @@ public class Minion : MonoBehaviour
 
     public void ChangeState(eMinionState newState)
     {
-        ARDebug.Log(newState.ToString() + minionName, 5);
 
         minionState = newState;
 

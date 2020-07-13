@@ -34,7 +34,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        //ARManager.SetPlaneManagerActive(false);
+        ARManager.SetPlaneManagerActive(false);
         //ARManager.SetPointCloudManagerActive(false);
         
     }

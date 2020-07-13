@@ -17,7 +17,10 @@ public class AutoRTSMode : GameMode
 
     ARTrackedImageManager imageManager;
     //public IReferenceImageLibrary imageLibrary;
-    public GameObject spawnObject;
+    //public GameObject spawnObject;
+
+    public GameObject instructionUI;
+    public GameObject mainMenuButton;
 
     public Minion[] minionPrefabs;
     Dictionary<string, GameObject> minionDictionary = new Dictionary<string, GameObject>();
@@ -30,6 +33,12 @@ public class AutoRTSMode : GameMode
     GameObject temp;
     public override void Init(GameObject parentObject)
     {
+        ARManager.SetPlanesActive(false); //Incase theres existing planes
+        ARManager.SetPlaneManagerActive(false);
+
+        instructionUI.SetActive(true);
+        mainMenuButton.SetActive(false);
+
         if(minionPrefabs != null)
         {
             foreach(Minion m in minionPrefabs)
@@ -71,10 +80,8 @@ public class AutoRTSMode : GameMode
         //ARDebug.Log("Update", 5);
         foreach (ARTrackedImage i in args.added)
         {
-            ARDebug.Log(i.referenceImage.name, 10);
-            if (spawnedMinions.Contains(i.referenceImage.name))
-                ARDebug.Log("Already Exists", 5);
-            else
+            //ARDebug.Log(i.referenceImage.name, 10);
+            if (!spawnedMinions.Contains(i.referenceImage.name))
             {
                 GameObject minionToSpawn;
                 minionDictionary.TryGetValue(i.referenceImage.name, out minionToSpawn);
@@ -111,6 +118,19 @@ public class AutoRTSMode : GameMode
         }
     }
 
+    public void DismissInstruction()
+    {
+        instructionUI.SetActive(false);
+        mainMenuButton.SetActive(true);
+    }
+
+    public void GoToMainMenu()
+    {
+        DestroySelf();
+        MenuManager.instance.SpawnMenu(KryptKeeperGamesARDemo.Enums.eMenus.MAIN_MENU);
+        GameModeManager.instance.DestroyActiveGameMode();
+    }
+
     private void OnDisable()
     {
         DestroySelf();
@@ -124,6 +144,10 @@ public class AutoRTSMode : GameMode
     void DestroySelf()
     {
         imageManager.trackedImagesChanged -= UpdateImage;
+        if (minion1 != null) Destroy(minion1.gameObject);
+        if (minion2 != null) Destroy(minion2.gameObject);
         Destroy(imageManager);
+
+       
     }
 }

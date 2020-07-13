@@ -9,7 +9,7 @@ public class GameModeManager : MonoBehaviour
 
     public GameMode[] allGameModeRef;
     [HideInInspector]public GameMode activeGameMode;
-    eGameMode gameMode;
+    public eGameMode gameMode;
 
     private void Awake()
     {

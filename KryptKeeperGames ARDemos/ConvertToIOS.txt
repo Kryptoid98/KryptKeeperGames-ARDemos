@@ -1,0 +1,12 @@
+- Convert project to iOS
+
+- Open Package Manager
+- Remove ARCore from the project
+- Add ARKit v3.1.3
+
+**Ive already set the following, just double check to make sure they didnt change from coverting project to iOS**
+- Open Project Settings / Player / iOS
+- Add description to "Camera Usage Description" field
+- Add description to "Location Usage Description" field 
+- Target minimum ios version = 11.0
+- Architecture = ARM64

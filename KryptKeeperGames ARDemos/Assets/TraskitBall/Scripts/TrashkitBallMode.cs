@@ -96,6 +96,8 @@ public class TrashkitBallMode : GameMode
         {
             ARManager.SetPlaneManagerActive(true);
             ARManager.SetPlanesInvisible(false);
+            ARManager.TogglePlanePrefab(false);
+            
             SpawnARObjectPlacement();
             trashCount = 10;
             score = 0;
@@ -329,6 +331,10 @@ public class TrashkitBallMode : GameMode
     public void BackToMainMenu()
     {
         DestroyGameSessionObjects();
+
+        ARManager.SetPlanesInvisible(false);
+        ARManager.SetPlanesActive(false);
+        ARManager.SetPlaneManagerActive(false);
 
         MenuManager.instance.SpawnMenu(eMenus.MAIN_MENU);
         GameModeManager.instance.DestroyActiveGameMode();

@@ -11,7 +11,8 @@ public class MainMenu : Menu
     bool preparingToLoad = false;
     bool bgFadeStarted = false;
 
-    public override void Init(GameObject parentObject){}
+    public override void Init(GameObject parentObject){
+    }
 
     public void LoadTrashkitBall()
     {
@@ -25,9 +26,9 @@ public class MainMenu : Menu
         StartCoroutine(PrepareToLoadGameMode());
     }
 
-    public void LoadDodgeGame()
+    public void LoadBlockBuilder()
     {
-        modeToLoad = eGameMode.DODGE_GAME;
+        modeToLoad = eGameMode.BLOCK_BUILDER;
         StartCoroutine(PrepareToLoadGameMode());
     }
 

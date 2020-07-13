@@ -8,10 +8,10 @@ public static class Extensions
     public static bool IsPointOverUIObject(this Vector2 pos)
     {
         //Check if is over a game object, if we are than we know were not over a UI object
-        if (EventSystem.current.IsPointerOverGameObject())
-        {
-            return false;
-        }
+        //if (EventSystem.current.IsPointerOverGameObject())
+        //{
+        //    return false;
+        //}
 
         PointerEventData eventPosition = new PointerEventData(EventSystem.current);
         eventPosition.position = new Vector2(pos.x, pos.y);

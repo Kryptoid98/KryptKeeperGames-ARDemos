@@ -152,6 +152,18 @@ public class ARManager : MonoBehaviour
             p.gameObject.SetActive(setActive);
     }
 
+    public static void TogglePlanePrefab(bool useWater)
+    {
+        if (useWater)
+        {
+            arPlaneManager.planePrefab = ContentLoader.LoadPrefab(ContentLoader.PrefabID.AR_WATER_PLANE);
+        }
+        else
+        {
+            arPlaneManager.planePrefab = ContentLoader.LoadPrefab(ContentLoader.PrefabID.AR_DEFAULT_PLANE);
+        }
+    }
+
     public static void SetPlanesInvisible(bool setInvisible)
     {
         if (setInvisible)
@@ -166,7 +178,12 @@ public class ARManager : MonoBehaviour
         }
         else
         {
-            Material planeMat = ContentLoader.LoadMaterial(ContentLoader.MaterialID.PLANE_VISBLE);
+            Material planeMat;
+            if (GameManager.instance.gameModeManager.gameMode == KryptKeeperGamesARDemo.Enums.eGameMode.BLOCK_BUILDER)
+                planeMat = ContentLoader.LoadMaterial(ContentLoader.MaterialID.WATER);
+            else
+                planeMat = ContentLoader.LoadMaterial(ContentLoader.MaterialID.PLANE_VISBLE);
+
             Material lineMat = ContentLoader.LoadMaterial(ContentLoader.MaterialID.PLANE_LINE_VISIBLE);
             var planes = planeManager.trackables;
             foreach (var p in planes)
